@@ -1,2 +1,2 @@
-FROM registry.access.redhat.com/ubi8/nginx-116
+FROM nginx:latest
 USER 1001
